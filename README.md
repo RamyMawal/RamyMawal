@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @RamySec
-- 👀 I’m interested in Information Security and Software engineering 
-- 🌱 I’m currently learning associate cloud engineering along with OOP Java 
+- 👋 Hi, I’m @RamyMawal
+- 👀 I’m interested in Computational Intelligence & Software engineering 
+- 🌱 Currently learning Backend Development with C# and .NET
+- 🏙️ Junior Backend Developer with ECOM-LTD
 - 📫 You can find me on my Gmail or through Linkedin
 
 <!---
