@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @RamyMawal
 - 👀 I’m interested in Computational Intelligence & Software engineering 
-- 🌱 Currently learning Backend Development with C# and .NET
+- 🌱 Currently learning Agile mythodologies and DDD
 - 🏙️ Junior Backend Developer with ECOM-LTD
 - 📫 You can find me on my Gmail or through Linkedin
 
-<!---
-RamySec/RamySec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a href="https://app.daily.dev/ramymawal"><img src="https://api.daily.dev/devcards/87e1dbe10bf048049617c5abc063f213.png?r=epc" width="400" alt="Ramy Mawal's Dev Card"/></a>
+
